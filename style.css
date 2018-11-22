@@ -57,11 +57,13 @@ div {
   color:#EDF2F4;
   padding:15px,20px;
   border-radius:4Px;
+  text-decoration:none;
   }
 
 .btn-blue:hover {
   background-color:black;
   color:white;
+  text-decoration:none;
   }
 
 @media (max-width: 960px) {
@@ -81,11 +83,13 @@ div {
   background-color:#6B72E1;
   color:#EDF2F4;
   padding:15px,20px;
-  border-radius:4Px;
+  border-radius:4px;
+  text-decoration:none;
   }
   .btn-blue:hover {
   background-color:black;
   color:white;
+  text-decoration:none;
   }
 }
 
@@ -107,10 +111,12 @@ div {
   color:#EDF2F4;
   padding:15px,20px;
   border-radius:4Px;
+  text-decoration:none;
   }
   .btn-blue:hover {
   background-color:black;
   color:white;
+  text-decoration:none;
   }
 }
 
@@ -133,11 +139,13 @@ div {
   background-color:#6B72E1;
   color:#EDF2F4;
   padding:15px,20px;
-  border-radius:4Px;
+  border-radius:4px;
+  text-decoration:none;
   }
 
   .btn-blue:hover {
   background-color:black;
   color:white;
+  text-decoration:none;
   }
 }
